@@ -4,14 +4,12 @@ kakkaakakakakakakakakakakaaa
 sguuuu swiss german university
 <<<<<<< HEAD
 smileyleleleleleleelelelelllll
-=======
 huehuehuehuehuehuehuehuehuehuehue
 <<<<<<< HEAD
 >>>>>>> sgu
 
 ini itu dr master
 ini dari master-2
-=======
 
 ini dari sgu branch
 >>>>>>> sgu
